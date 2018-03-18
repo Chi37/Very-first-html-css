@@ -1,0 +1,44 @@
+body, html {
+	background-image: url("BC.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+		}
+ h1, h2, h3, h4, p {
+	font-family: 'Palatino Linotype', cursive;
+	color:white;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.transbox p{
+	margin: 5%;
+	font-weight: bold;
+	color: black;
+	font-size: 40px;
+	font-family: 'Palatino Linotype', cursive;
+	text-align: auto;
+}
+.transbox{
+	margin: 40px;
+	border: 2px solid white ;
+	border-color:#003300 ;
+	opacity: .5;
+	background-color: white;
+}
+
+.card-block{
+	margin: 40px;
+	border: 7px solid white ;
+	border-color:#003300;
+	opacity: .8;
+	background-color: white;
+
+}
+ 
+ .p1 {
+	font-size: 50px;
+ 	color: solid black;
+ }
+

@@ -1,0 +1,128 @@
+
+	html, body, h1, h2, h3, h4 {
+	font-family: 'Palatino Linotype', cursive;
+}
+body {
+	background-color: #c4e4f2;
+}
+
+.vertical {
+	border-right: 3px solid white;
+	height:100vh;
+
+}
+h3, h2 {
+	font-style: italic;
+	font-family: 'Palatino Linotype', cursive;
+}
+h1{
+	position: absolute;
+	top:100px;
+	left:100px;
+	width: 100%;
+	color: white;
+	text-shadow: 3px 2px purple
+}
+p {
+	font-family: 'Palatino Linotype'; 
+	font-size: 15px;
+	color: white;
+}
+
+#bc{
+	font-family: 'Palatino Linotype'; 
+	font-size: 30px;
+	color: white;
+}
+
+#words{
+	font-family: 'Palatino Linotype'; 
+	font-size: 30px;
+	color: white;
+}
+
+
+li{
+	font-family: 'Palatino Linotype';
+	font-size: 20px;
+	color: white;
+
+}
+.intro{
+	float: right;
+	margin: 30px;
+	padding: 15px;
+	max-width: 300px;
+	height: 310px;
+	border: 1px solid white;
+
+}
+
+.title{
+	float: left;
+	padding: 30px;
+
+}
+
+.me{
+	float: left;
+   margin: 30px;
+   padding: 15px;
+   max-width: 300px;
+   height: 300px;
+   border: 3px solid white;
+
+}
+
+.image{
+	position: relative;
+	max-width: 100%;
+	height: auto;
+
+}
+
+.tagline{
+	position: absolute;
+	top:250px;
+	left: 100px;
+	width:100%;
+	color: white;
+	text-shadow: 3px 2px purple;
+}
+
+
+.height-full {
+	height: 25vh;
+}
+
+.bg-light {
+	color: black;
+	background-color:#F1C40F
+	;
+}
+
+.height{
+	height: 100vh;
+}
+#BC {
+	font-family: 'Palatino Linotype'; 
+	font-size: 40px;
+	color: white;
+}
+
+.card-img {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(BC.jpg);
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+  margin: 50px auto;
+  position:  center;
+  float: inherit;
+}
+
+
